@@ -1,12 +1,19 @@
 # A02
 
 •	How to use WebStorm
+
  •	Install WebStorm: https://www.jetbrains.com/webstorm/ 
+ 
  •	Open the application and start a new project by selecting a folder with a type.
+ 
  •	Customize layout with view>appearance.
+ 
  •	Editor pane is used to write code, many features to make writing code are on.
+ 
  •	Press run or debug to run the code, support for various applications.
+ 
  •	Download and use plugins by going to file>settings>plugins and install.
+ 
  •	Key references are under help and other useful tips.
 
 •	How to use Git
